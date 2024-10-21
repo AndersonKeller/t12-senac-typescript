@@ -1,0 +1,8 @@
+{
+  "scripts": {
+    "dev": "node src/script.js"
+  },
+  "devDependencies": {
+    "typescript": "^5.6.3"
+  }
+}
